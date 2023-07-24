@@ -1,12 +1,12 @@
 import { Text, View } from "native-base";
 import React from "react";
 
-const App = () => {
+const Register = () => {
   return (
     <View>
-      <Text>Appa</Text>
+      <Text>Registera</Text>
     </View>
   );
 };
 
-export default App;
+export default Register;
